@@ -1,5 +1,5 @@
-# gtu-community-management-and-interaction-system
-Web and Mobile application which provides management, and interaction system for Gebze Technical University communities.
+# GTÜ Community Management and Interaction System
+Web and Mobile application which provides management, and interaction system for Gebze Technical University communities and students.
 
 Here is the repositories:
 ## [backend](https://github.com/los-ingenieros-hermanos/cmis-backend) 
